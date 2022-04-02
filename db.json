@@ -1,0 +1,96 @@
+{
+  "offers": [
+    {
+      "id": "1",
+      "title": "Product Manager",
+      "candidate": "Jon Snow",
+      "salary": 100000,
+      "equity": "100 RSUs",
+      "bonus": 20000,
+      "culture": "Our culture is awesome. The team is fun. Do cool stuff!",
+      "opportunities": "8 hours per week alloted for continuing education with 100% of cost covered by company.",
+      "publishedOn": "04-01-2022",
+      "offerStatus": "Draft"
+    },
+    {
+      "id": "2",
+      "title": "Frontend Engineer",
+      "candidate": "Dany Targaryen",
+      "salary": 100000,
+      "equity": "100 RSUs",
+      "bonus": 20000,
+      "culture": "Our culture is awesome. The team is fun. Do cool stuff!",
+      "opportunities": "8 hours per week alloted for continuing education with 100% of cost covered by company.",
+      "publishedOn": "04-01-2022",
+      "offerStatus": "Awaiting response"
+    },
+    {
+      "id": "3",
+      "title": "Software Engineer",
+      "candidate": "Tyrion Lannister",
+      "salary": 100000,
+      "equity": "100 RSUs",
+      "bonus": 20000,
+      "culture": "Our culture is awesome. The team is fun. Do cool stuff!",
+      "opportunities": "8 hours per week alloted for continuing education with 100% of cost covered by company.",
+      "publishedOn": "04-01-2022",
+      "offerStatus": "Offer Accepted"
+    },
+    {
+      "id": "4",
+      "title": "Recruiter",
+      "candidate": "Arya Stark",
+      "salary": 100000,
+      "equity": "100 RSUs",
+      "bonus": 20000,
+      "culture": "Our culture is awesome. The team is fun. Do cool stuff!",
+      "opportunities": "8 hours per week alloted for continuing education with 100% of cost covered by company.",
+      "publishedOn": "04-01-2022",
+      "offerStatus": "Offer sent"
+    },
+    {
+      "title": "Software Engineer",
+      "candidate": "Neil Ranada",
+      "salary": 200000,
+      "equity": "500 RSUs",
+      "bonus": 50000,
+      "culture": "Our culture is awesome. The team is fun. Do cool stuff!",
+      "opportunities": "8 hours per week alloted for continuing education with 100% of cost covered by company.",
+      "publishedOn": "04-01-2022",
+      "offerStatus": "Draft",
+      "id": "CgNZ4gn"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Hodor",
+      "email": "hodor@got.com",
+      "role": "HR Admin"
+    },
+    {
+      "id": "2",
+      "name": "Jon Snow",
+      "email": "jonsnow@nightswatch.com",
+      "role": "Employee"
+    },
+    {
+      "id": "3",
+      "name": "Dany Targaryen",
+      "email": "dany@dragons.com",
+      "role": "Employee"
+    },
+    {
+      "id": "4",
+      "name": "Tyrion Lannister",
+      "email": "tyrion@hotmail.com",
+      "role": "Employee"
+    },
+    {
+      "id": "5",
+      "name": "Arya Stark",
+      "email": "arya@north.com",
+      "role": "Employee"
+    }
+  ]
+}
